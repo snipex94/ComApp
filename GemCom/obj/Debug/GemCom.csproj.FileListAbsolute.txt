@@ -1,0 +1,10 @@
+C:\Users\blazk\Visual studio\GemCom\GemCom\GemCom\bin\Debug\GemCom.exe.config
+C:\Users\blazk\Visual studio\GemCom\GemCom\GemCom\bin\Debug\GemCom.exe
+C:\Users\blazk\Visual studio\GemCom\GemCom\GemCom\bin\Debug\GemCom.pdb
+C:\Users\blazk\Visual studio\GemCom\GemCom\GemCom\obj\Debug\GemCom.csprojResolveAssemblyReference.cache
+C:\Users\blazk\Visual studio\GemCom\GemCom\GemCom\obj\Debug\GemCom.Form1.resources
+C:\Users\blazk\Visual studio\GemCom\GemCom\GemCom\obj\Debug\GemCom.Properties.Resources.resources
+C:\Users\blazk\Visual studio\GemCom\GemCom\GemCom\obj\Debug\GemCom.csproj.GenerateResource.Cache
+C:\Users\blazk\Visual studio\GemCom\GemCom\GemCom\obj\Debug\GemCom.csproj.CoreCompileInputs.cache
+C:\Users\blazk\Visual studio\GemCom\GemCom\GemCom\obj\Debug\GemCom.exe
+C:\Users\blazk\Visual studio\GemCom\GemCom\GemCom\obj\Debug\GemCom.pdb
